@@ -1,0 +1,6 @@
+What are the top 5 most interesting data analytics techniques that you learned about in the lecture?
+The use of regression analysis to identify relationships between variables
+The application of clustering algorithms to group similar data points together
+The use of decision trees to model complex decision-making processes
+The application of neural networks to classify data based on patterns
+The use of association rule mining to identify patterns in transactional data
